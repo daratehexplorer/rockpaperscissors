@@ -84,7 +84,7 @@ switch (playAgain.toLowerCase()) {
         console.log(game());
     break;
     case "no":
-        alert("You're no fun!")
+        alert("You're no fun!");
     break;
     default:
         alert("It's a yes or no question, dummy!");
